@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\HFKJ059\source\repos\UnsteadyFiniteDifferenceExample\UnsteadyFiniteDifferenceExample\UnsteadyFiniteDifferenceExample.h(66,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UnsteadyFiniteDifferenceExample.vcxproj -> C:\Users\HFKJ059\source\repos\UnsteadyFiniteDifferenceExample\x64\Debug\UnsteadyFiniteDifferenceExample.exe
